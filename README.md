@@ -1,5 +1,5 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NougatBitz)
-![Static Badge](https://img.shields.io/badge/6%20Years-FFFFFF?style=for-the-badge&logo=lua&label=Lua%20Developer&labelColor=%23121212&color=%23262626)
+![Static Badge](https://img.shields.io/badge/6%20Years-FFFFFF?logo=lua&label=Lua%20Developer&labelColor=%23121212&color=%23262626)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=andytubeee&theme=nord&column=7)]
