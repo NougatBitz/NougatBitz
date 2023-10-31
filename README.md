@@ -4,8 +4,8 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=NougatBitz&theme=nord&column=7)
 
-### ⚡ Current project I'm work on: 
+### ⚡ Current project/s I'm working on: 
 * LuaU Bytecode Toolkit
 
-### ✨ Projects I want to work on:  
+### ✨ Project/s I want to work on:  
 * A Lua Obfuscator
